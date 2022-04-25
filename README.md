@@ -1,1 +1,1 @@
-# Hierarchical-Clustering
+# Hierarchical Clustering (Clustering Jerárquico)
