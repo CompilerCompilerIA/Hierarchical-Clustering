@@ -34,8 +34,8 @@ También llamado enfoque de enfoque de abajo hacia arriba.
 Consiste en que todos los grupos están separados al principio.
 Luego continúa fusionándose hasta que todos los grupos se
 fusionan o se cumple la condición de terminación.
-
+</br>
 
 <p align="center">
-  <img src="https://miro.medium.com/max/1400/0*afzanWwrDq9vd2g-" width="350" title="hover text">
+  <img src="https://miro.medium.com/max/1400/0*afzanWwrDq9vd2g-" width="650" title="hover text">
 </p>
