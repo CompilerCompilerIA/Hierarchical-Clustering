@@ -5,9 +5,19 @@ Se debe de instalar las siguientes librerías ejecutando los comandos monstrados
 
 ```
 pip install jupyterlab
+```
+```
 pip install notebook
+```
+```
 pip install voila
+```
+```
 pip install pandas
+```
+```
 pip install matplotlib
+```
+```
 pip install sklearn
 ```
